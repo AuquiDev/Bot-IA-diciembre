@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "open_ai_assistants",
+  "info": {
+    "singularName": "open-ai-assistant",
+    "pluralName": "open-ai-assistants",
+    "displayName": "OpenAiAssistants"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name": {
+      "type": "text"
+    }
+  }
+}
