@@ -26,6 +26,10 @@
 	<true/>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>DESCRIBE AQUÍ POR QUÉ TU APLICACIÓN NECESITA ACCESO AL MICRÓFONO</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>DESCRIBE AQUÍ POR QUÉ TU APLICACIÓN UTILIZA EL RECONOCIMIENTO DE VOZ</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
 	<key>UISupportedInterfaceOrientations</key>

@@ -12,3 +12,4 @@ export 'package:quickalert/quickalert.dart';
 export 'package:app/controllers/login.controller.dart';
 export 'package:app/ui/principal.page.dart';
 export 'package:app/main.dart';
+export 'package:flutter_tts/flutter_tts.dart';
